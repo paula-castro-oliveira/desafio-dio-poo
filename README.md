@@ -1,21 +1,21 @@
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos </h1>
 <br>
-O objetivo principal é colocar em prática umas das principais ferramentas da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
+O objetivo principal é colocar em prática umas das principais ferramentas da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.<br>
 
 🛑
- Pré-Requisitos
+ Pré-Requisitos<br>
 ✅
- Conhecer a sintaxe da Java
+ Conhecer a sintaxe da Java<br>
 ✅
- Java JDK 11
+ Java JDK 11<br>
 ✅
- IDE para desenvolvimento Java (usarei IntelliJ)
+ IDE para desenvolvimento Java (usarei IntelliJ)<br>
 ✅
- Git
+ Git<br>
 ✅
- Conta no GitHub
+ Conta no GitHub<br><br>
 👣
- Passo-a-Passo
+ Passo-a-Passo<br>
 1. Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS
 2. Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las
 3. As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS
@@ -102,26 +102,19 @@ Linguagens Hibridas: Java, Erlang, Elixir, etc.
  PARADIGMA DE LINGUAGEM DE PROGRAMAÇÃO
 É um conjunto de características que podem ser utilizados para categorizar determinado grupo de linguagens. Um paradigma pode oferecer técnicas apropriadas para uma aplicação específica.
 
-PARADIGMAS PRINCIPAIS e SEUS SUBPARADIGMAS
+PARADIGMAS PRINCIPAIS e SEUS SUBPARADIGMAS<br><br>
 
-🔸
- 1. Paradigma Imperativo
+🔸 1. Paradigma Imperativo<br>
 Neste paradigma, o programa descreve o processamento necessário para solucionar o problema. Assim, o paradigma imperativo é caracterizado por execução sequencial de instruções, pelo uso de variáveis que representam posições de memória e pelo uso de instruções de atribuição que alteram os valores dessas variáveis.
-Vejamos alguns Subparadigmas do Paradigma Imperativo e exemplos linguagens de programação que adotam esses subparadigmas.
+Vejamos alguns Subparadigmas do Paradigma Imperativo e exemplos linguagens de programação que adotam esses subparadigmas.<br>
 
-🔸
- 1.1 Paradigma estruturado: ALGOL 58 e ALGOL 60
-🔸
- 1.2 Paradigma concorrente: Java e Ada
-🔸
- 1.3 Paradigma Orientado a Objetos: Smalltalk e Java
+🔸 1.1 Paradigma estruturado: ALGOL 58 e ALGOL 60<br>
+🔸 1.2 Paradigma concorrente: Java e Ada<br>
+🔸 1.3 Paradigma Orientado a Objetos: Smalltalk e Java<br><br>
 
-🔹
- 2. Paradigma Declarativo
+🔹 2. Paradigma Declarativo<br>
 Este paradigma é o modelo no qual os resultados são descritos, mas os passos para chegar aos resultados não são estabelecidos.
-Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de programação que adotam esses subparadigmas:
+Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de programação que adotam esses subparadigmas:<br>
 
-🔹
- 2.1 Paradigma Funcional: Lisp e Haskell
-🔹
- 2.2 Paradigma Lógico: Prolog
+🔹 2.1 Paradigma Funcional: Lisp e Haskell<br>
+🔹 2.2 Paradigma Lógico: Prolog<br>
